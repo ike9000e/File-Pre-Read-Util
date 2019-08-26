@@ -16,7 +16,3 @@ Usage
           Don't add leading dot character on each ext.
           Matching is case insensitive.
 
-
-Download source code version 1.1
-https://www36.zippyshare.com/v/WLom39c9/file.html
-(External link because Github page seems to be bugged and won't allow web browser.file upload.)
